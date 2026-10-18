@@ -1,0 +1,17 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@aws-sdk/client-lambda-web": "^3.1152.0",
+    "aws-cdk-lib": "2.273.0"
+  },
+  "devDependencies": {
+    "@types/aws-lambda": "^8.10.164",
+    "@types/node": "^26.6.5",
+    "aws-cdk": "^2.1145.0",
+    "esbuild": "^0.28.2",
+    "typescript": "^7.0.2"
+  },
+  "allowScripts": {
+    "esbuild@0.28.2": true
+  }
+}
